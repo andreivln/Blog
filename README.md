@@ -10,4 +10,4 @@ Features includes:
 
 Modules: `Flask`+`Flask - SQLAlchemy`+`flask-login`+`Flask-CKeditor`+`bootstrap-flask`+`Flask-WTF`+`Flask-Gravatar`;
 
-
+   ![blog](https://github.com/andreivln/Blog/blob/master/restful-simple-blog.gif)
