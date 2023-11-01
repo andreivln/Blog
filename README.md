@@ -9,6 +9,7 @@ Features includes:
   - contact: automatically sending email;
 
 Modules: `Flask`+`Flask - SQLAlchemy`+`flask-login`+`Flask-CKeditor`+`bootstrap-flask`+`Flask-WTF`+`Flask-Gravatar`;
+
 [deployed](https://one5eroripanaacumde-ce-nu-stiu.onrender.com/)
 
    ![blog](https://github.com/andreivln/Blog/blob/master/restful-simple-blog.gif)
